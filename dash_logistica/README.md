@@ -1,7 +1,7 @@
 # Dashboard de Logistica
 
 <p aling='center'>
-        <img width="600" height="400" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/Logistics-amico.png?token=AQYHTDPWZP5JXXBH4GVBTGTBWKSNO">
+        <img width="998" height="200" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/logo/red.png?token=AQYHTDOCOZJHVK3N6F6ZVW3BWK4SK">
 
 ## Problema de negócio:
 
@@ -12,3 +12,5 @@ A pessoa que gerencia a área de logística da Alura Log, está enfrentando algu
 1. Visualizar no nosso dashboard o nível médio de estoque disponível por ano;
 
 2. Mostrar o índice de ocorrências por estado;
+
+ETL 
