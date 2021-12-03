@@ -1,17 +1,14 @@
 # Dashboard de Logistica
 
 <p aling='center'>
-        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/Logistics-amico.png?token=AQYHTDNVQOZDCRP2H5FKJI3BWKRUE">
+        <img width="600" height="400" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/Logistics-amico.png?token=AQYHTDPWZP5JXXBH4GVBTGTBWKSNO">
 
+## Problema de negócio:
 
+A pessoa que gerencia a área de logística da Alura Log, está enfrentando algumas mudanças em sua área por conta do aumento da demanda dos serviços de logística no período da **pandemia**. Ela quer **manter a qualidade** de seu serviço, mas para isso precisa acompanhar constantemente as métricas do seu departamento para tomar as melhores decisões. Quando nos contou isso, analisamos que para auxiliar nesse desafio precisaremos fazer um dashboard para logística. Para isso, vamos visualizar algumas métricas muito importantes para a área.
 
+## Objetivos
 
-### Dados
+1. Visualizar no nosso dashboard o nível médio de estoque disponível por ano;
 
-- tabela pedidos - contém o registro de todos os pedidos feitos pelos clientes.
-
-- tabela produtos - contém os produtos cadastrados e seus valores.
-
-- tabela veículos - contém veículos registrados que fazem o transporte dos produtos
-
-- tabela estoque - contém o registro de estoque dos produtos por mês
+2. Mostrar o índice de ocorrências por estado;
