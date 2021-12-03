@@ -1,7 +1,7 @@
 # Dashboard de Logistica
 
 <p aling='center'>
-        <img width="600" height="300" src="\images\Logistics-amico.png">
+        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/Logistics-amico.png?token=AQYHTDNVQOZDCRP2H5FKJI3BWKRUE">
 
 
 
