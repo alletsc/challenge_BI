@@ -1,7 +1,7 @@
 # Dashboard de Logistica
 
 <p aling='center'>
-        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/process.png?token=AQYHTDL77NSSQQL5IRJ4XQDBW3E6K">
+        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/process.png">
 
 ## Problema de negócio:
 
