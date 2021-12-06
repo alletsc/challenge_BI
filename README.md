@@ -11,7 +11,7 @@ Técnicas de BI ajudam a promover a compreensão dos métodos de coleta e uso de
 Neste repositório exploro e desenvolvo **dashboards de logística, marketing e financeiro**, utilizando conceitos e técnicas de BI, do básico ao avançado, com Power BI.
 
 <p aling='center'>
-        <img width="600" height="300" src=" " alt="">
+        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/process.png?token=AQYHTDL77NSSQQL5IRJ4XQDBW3E6K" alt="">
 
 ## Desafios
 
@@ -40,4 +40,4 @@ Com a liberação do desafio de cada semana é disponibilizado um vídeo de intr
 
 Ao final de cada semana, cada aluno pode entrega, se quiser, seu projeto, fazendo a publicação deste no GitHub, LinkedIn, apresentando-o à comunidade no Discord etc. Não é obrigatório, mas é uma experiência incrível poder interagir com outros alunos e ver e se inspirar com as ideias uns dos outros.
 
-
+### 

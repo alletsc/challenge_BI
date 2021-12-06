@@ -1,7 +1,7 @@
 # Dashboard de Logistica
 
 <p aling='center'>
-        <img width="998" height="200" src="">
+        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/process.png?token=AQYHTDL77NSSQQL5IRJ4XQDBW3E6K">
 
 ## Problema de negócio:
 
@@ -30,10 +30,6 @@ A pessoa que gerencia a área de logística da Fast Sheep, está enfrentando alg
 10. Faturamento por mês;
 
 
-
-<p aling='center'>
-        <img width="600" height="300" src=">
-        
 ## Extração
 
 Os dados brutos utilizados neste relatório foram fornecidos pela empresa em 4 arquivos .csv divididos em:
@@ -54,14 +50,32 @@ Tabela | Transformações
 :------ | :--------------
 Tabela Estoque | Normalização dos dados; Correção da coluna `data_atualizacao` substituindo valores e alteração do tipo usando a localidade. 
 Tabela Pedidos | Alterar região de origem dos dados; Normalização dos dados;  Criação das colunas `data_column_name` e `hora_column_name`; Alteração do tipo das colunas `id_column_name`, `hora_column_name`, `data_column_name`; Correção das colunas `Latitude` e `Longitude`; Remoção de valores em branco;
-Tabela Produtos | Normalização dos dados; Corrigir de dados;
-Tabela Veículos | Normalização dos dados; Correção da coluna `ID_Veículo`
+Tabela Produtos | Normalização dos dados;
+Tabela Veículos | Normalização dos dados; Correção da coluna `ID_Veículo`; 
+Medidas |  Calendário; Faturamento;  Valor do estoque; Pedidos entregue; Pedido atrasados; Pedidos Trânsito.
 
 ## Load 
 
 Estrutura do Data Warehouse
 
 <p aling='center'>
-        <img width="600" height="300" src=">
+        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/logo/rel_tabelas.png?token=AQYHTDKPSGYU6HPPLJKL6SLBW3FZ6 ">
 
 ## Analysis 
+
+<p aling='center'>
+        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/logo/dash_1.png?token=AQYHTDMQG2FCHMMAQ7P4U4DBW3FEC">
+        
+<p aling='center'>
+        <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/logo/dash_2.png?token=AQYHTDNB75ZXE2OOFG6T5QLBW3FG6">
+
+### Habilidade exercitadas nesse projeto
+
+- Desing de dashboards;
+
+- Funções Dax (Data Analysis Expressions);
+
+- ETL com Power BI Desktop.
+
+
+
