@@ -21,3 +21,4 @@ Técnicas de BI ajudam a promover a compreensão dos métodos de coleta e uso de
 
 - [Solução 03:](https://github.com/alletsc/challenge_BI/tree/main/dash_financeiro) ***dashboard* tático financeiro com análise de cenários** 
 
+'
