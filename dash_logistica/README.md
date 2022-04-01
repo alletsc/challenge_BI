@@ -1,7 +1,10 @@
 # Dashboard de Logistica
 
-<p aling='center'>
+<p align='center'>
         <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/process.png">
+
+<h2 align='center'>  <a href="https://app.powerbi.com/links/yCoo4s9aBV?ctid=42d1d628-1f94-413e-bb7e-f7721ad8c5c0&pbi_source=linkShare">  📊 Para Visualizar o projeto completo, clique aqui. 📊 </a> 
+</h2> <br>
 
 ## Problema de negócio:
 
@@ -58,15 +61,15 @@ Medidas |  Calendário; Faturamento;  Valor do estoque; Pedidos entregue; Pedido
 
 Estrutura do Data Warehouse
 
-<p aling='center'>
+<p align='center'>
         <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/logo/rel_tabelas.png?token=AQYHTDKPSGYU6HPPLJKL6SLBW3FZ6">
 
 ## Analysis
 
-<p aling='center'>
+<p align='center'>
         <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/logo/dash_1.png?token=AQYHTDMQG2FCHMMAQ7P4U4DBW3FEC">
 
-<p aling='center'>
+<p align='center'>
         <img width="600" height="300" src="https://raw.githubusercontent.com/alletsc/challenge_BI/main/src/images/logo/dash_2.png?token=AQYHTDNB75ZXE2OOFG6T5QLBW3FG6">
 
 ### Habilidade exercitadas nesse projeto
